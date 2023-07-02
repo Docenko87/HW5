@@ -1,0 +1,33 @@
+body{
+    background-color: #F5F5F5;
+    
+}
+.col-1{
+    background-color: #ADD8E6;
+}
+    .col-2{
+        background-color: #ADD8E6;
+    }
+    .col-3{
+        background-color: #E9E9E9;
+    }
+table{
+    margin: 0 auto;
+    padding: 0;
+    border-spacing: 0;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+}
+.scroll-table-body {
+	height: 300px;
+	overflow-x: auto;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #eee;
+}
+.scroll-table table {
+	width: 700px;
+	table-layout: fixed;
+	border: none;
+}
